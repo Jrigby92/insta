@@ -288,6 +288,6 @@ if __name__ == '__main__':
     
     user_to_scrape = choice(scrape_accounts)
 
-    ig_bot = InstagramBot('Francessolutions', 'Skorpor1942')
+    ig_bot = InstagramBot('xxxxx', 'xxxxxx')
 
     ig_bot.follow_cycle()
